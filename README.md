@@ -1,2 +1,2 @@
-# Chapter_2
-for chapter 2 excercises
+# math_utils
+for week 2 questions!
